@@ -86,7 +86,7 @@
   line-height: 1;
 }
 
-.header__theme-menu-button:focus-visible  {
+.header__theme-menu-button:focus-visible {
   outline: none;
   border-bottom: 1px solid var(--color-nav);
 }
