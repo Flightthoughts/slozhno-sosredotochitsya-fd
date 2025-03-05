@@ -1,0 +1,1 @@
+https://github.com/Flightthoughts/slozhno-sosredotochitsya-fd.git
