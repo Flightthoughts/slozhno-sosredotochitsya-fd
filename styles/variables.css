@@ -23,16 +23,16 @@
   /*отступы*/
   --page-m: 10px;
   --page-l: 20px;
-  --menu-m: 76.5px;
-  --menu-l: 193.5px;
-  --header-paragraph-m: 55px;
-  --header-paragraph-t: 162px;
-  --header-paragraph-l: 114px;
+  --menu-m: 65.5px;
+  --menu-l: 172.5px;
+  --header-paragraph-m: 56px;
+  --header-paragraph-t: 163px;
+  --header-paragraph-l: 115px;
   --content-m: 50px;
   --content-l: 80px;
   --card-list: 20px;
   --card-item-m: 10px;
   --card-item-l: 20px;
-  --footer-m: 50px;
-  --footer-l: 80px;
+  --footer-m: 30px;
+  --footer-l: 40px;
 }
