@@ -36,4 +36,8 @@
     --color-main: #353430;
     --color-background: #FFF1F7;
   }
+
+  .header__decoration {
+    display: none;
+  }
 }

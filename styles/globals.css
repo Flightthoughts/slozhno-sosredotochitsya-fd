@@ -11,7 +11,7 @@ body {
   max-inline-size: 1440px;
   margin: 0 auto;
   padding: 0;
-  font-family: var(--font-main);
+  font-family: var(--font-main), monospace;
   font-size: var(--font-size);
   font-weight: 400;
   line-height: 1.3;
